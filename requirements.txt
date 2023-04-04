@@ -1,0 +1,15 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+Cython==0.29.33
+flake8==6.0.0
+idna==3.4
+mccabe==0.7.0
+ply==3.11
+ptsd==0.2.0
+pycodestyle==2.10.0
+pyflakes==3.0.1
+requests==2.28.2
+six==1.16.0
+thrift-converter==0.0.1
+thriftpy2==0.4.16
+urllib3==1.26.15
