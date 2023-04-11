@@ -10,7 +10,7 @@ if sys.version_info[0] < 3:
     sys.exit(1)
 
 from dispatchapi.thrift.client import Client as ThriftClient
-from dispatchapi.dispatch.server.thrift.backend.ttypes import ReportRequest
+# from dispatchapi.dispatch.server.thrift.backend.ttypes import ReportRequest
 
 import logging
 
